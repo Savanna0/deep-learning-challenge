@@ -10,7 +10,7 @@ In this module, we were tasked in creating a machine learning tool that can help
   - Using the dummies Data Frame, I took the column IS_SUCCESSFUL and made these values into the target variable.
 
 - What variable(s) are the features for your model?
-  -Also using the dummies Data Frame, I took dropped the IS_SUCCESSFUL column and used all the remaining columns as the feature variables.
+  - Also using the dummies Data Frame, I took dropped the IS_SUCCESSFUL column and used all the remaining columns as the feature variables.
 
 - What variable(s) should be removed from the input data because they are neither targets nor features?
   - I dropped the columns EIN and NAME from the data because they were neither targets nor features.
