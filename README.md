@@ -24,6 +24,7 @@ In this module, we were tasked in creating a machine learning tool that can help
   
 - Were you able to achieve the target model performance?
     - No, I was only able to achieve 73% for for the model.
+
 ![Screen Shot 2024-11-17 at 6 39 12 PM](https://github.com/user-attachments/assets/c91eeba9-622e-4844-9c10-dbe102b6dee8)
 
 
