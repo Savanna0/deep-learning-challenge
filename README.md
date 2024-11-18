@@ -29,7 +29,7 @@ In this module, we were tasked in creating a machine learning tool that can help
 
 
 - What steps did you take in your attempts to increase model performance?
-  - I changed the number of hidden layers to three with no change. Then I attempted to change the number of neurons for both of the hidden layers with no significant change. 
+  - I changed the number of hidden layers to three with no change. Then I attempted to change the number of neurons for both of the hidden layers with no significant change. For the final attempt, I used the attempt with the three hidden layers while also adding more epoch to 120 instead of 100. In all attempts, the accuracy rate was 72%, which was down 1% from original model.
   
 ## Summary
 
